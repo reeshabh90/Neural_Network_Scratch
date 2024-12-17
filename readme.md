@@ -1,4 +1,4 @@
-### Develop Neural network from scratch.
+### Anatomy of Computer Nueral Network.
 
 - This live playbook is an attempt to understand how the neural networks function internally.
 - One can change use cases as per the need.
